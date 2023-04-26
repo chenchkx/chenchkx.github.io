@@ -10,29 +10,35 @@ redirect_from:
 I am a Ph.D. student of Department of Computer Science and Technology in Zhejiang University. Currently I am a member of VIPA Group, advised by professor Mingli Song.
 
 # Research Interest
+
 My current research interests include graph representation learning, manifold learning, and decentralized learning.
 
 # Selected Publications
+
 > **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA) \\
-  > **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
-  > AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
+> **`<u>`Shunyu Liu`</u>`**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
+> AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
 # Awards & Honors
+
 - Outstanding Ph.D Student of Zhejiang University for the Academic Year 2021-2022.
 - Excellent Doctor Freshmen Award of Zhejiang University, 2020.
 - Excellent Master Degree Thesis of Jiangsu Province，2020.
 
 # Academic Services
+
 ### Journal Reviewer
+
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Cybernetics
 - Pattern Recognition
-- Information Sciences	
-- Knowledge-Based Systems	
+- Information Sciences
+- Knowledge-Based Systems
 - Neural Processing Letters
 
-### Conference Reviewer</h3>
+### Conference Reviewer
+
 - ICML, IJCAI, ICLR
 
 A data-driven personal website
