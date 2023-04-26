@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaixuan Chen / 陈凯旋"
+title                    : "Personal Websites"
 title_separator          : "-"
 name                     : &name "Kaixuan Chen"
 description              : &description "personal description"
