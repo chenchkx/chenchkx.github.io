@@ -18,7 +18,7 @@ My current research interests include graph representation learning, manifold le
   > AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
 # Awards & Honors
-- Outstanding PhD Student of Zhejiang University for the Academic Year 2021-2022.
+- Outstanding Ph.D Student of Zhejiang University for the Academic Year 2021-2022.
 - Excellent Doctor Freshmen Award of Zhejiang University, 2020.
 - Excellent Master Degree Thesis of Jiangsu Province，2020.
 
