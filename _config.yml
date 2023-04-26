@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaixuan Chen / 陈凯旋"
+  name             : "Kaixuan Chen"
   avatar           : "profile.png"
   bio              : "Ph.D. Student @ ZJU"
   location         : "Zhejiang University"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/chenchkx"
+  github           : "chenchkx"
   google_plus      :
   keybase          :
   instagram        :
