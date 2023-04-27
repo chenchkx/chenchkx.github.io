@@ -15,7 +15,7 @@ redirect_from:
 > International Conference on Machine Learning (ICML), 2023. 
 
 > Message-passing Selection: Towards Interpretable GNNs for Graph Classification.<a href="https://openreview.net/pdf?id=99Go96dla5y" target="_blank">[Paper]</a> \\
-> Wenda Li, Kaixuan Chen, Shunyu Liu, Wenjie Huang, Haofei Zhang, Yingjie Tian, Yun Su, Mingli Song
+> Wenda Li, Kaixuan Chen, Shunyu Liu, Wenjie Huang, Haofei Zhang, Yingjie Tian, Yun Su, Mingli Song \\
 > International Conference on Learning Representations (ICLR), 2023, Tiny Paper. 
 
 > Schema Inference for Interpretable Image Classification. <a href="https://openreview.net/pdf?id=VGI9dSmTgPF" target="_blank">[Paper]</a> <a href="https://github.com/zhfeing/SchemaNet-PyTorch" target="_blank">[Code]</a> \\

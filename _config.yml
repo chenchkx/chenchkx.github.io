@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kaixuan Chen / 陈凯旋"
   avatar           : "chenkx.jpg"
-  bio              : "Ph.D. Student @ ZJU"
+  bio              : "Ph.D. Student, College of Computer Science, @ ZJU"
   location         : "Zhejiang University"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aKvPUuAAAAAJ&hl=zh-CN"
   email            : "chenkx@zju.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Kaixuan-Chen-10"
   uri              :
   bitbucket        :
   codepen          :
