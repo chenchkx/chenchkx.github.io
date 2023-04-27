@@ -61,7 +61,7 @@ redirect_from:
 > Kai-Xuan Chen, Xiao-Jun Wu, Rui Wang, Josef Kittler \\
 > International Conference on Pattern Recognition (ICPR), 2018.
 
-- Component SPD matrices: A low-dimensional discriminative data descriptor for image set classification.<a href="https://link.springer.com/article/10.1007/s41095-018-0119-7" target="_blank">[Paper]</a> <a href="https://github.com/chenchkx/ComponentSPD" target="_blank">[Code]</a> \\
+Component SPD matrices: A low-dimensional discriminative data descriptor for image set classification.<a href="https://link.springer.com/article/10.1007/s41095-018-0119-7" target="_blank">[Paper]</a> <a href="https://github.com/chenchkx/ComponentSPD" target="_blank">[Code]</a> \\
 Kai-Xuan Chen, Xiao-Jun Wu \\
 Computational Visual Media, 2018.
 
