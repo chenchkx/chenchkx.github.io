@@ -67,12 +67,12 @@ redirect_from:
 
 > Latent Sparse Representation Classification Algorithm Based on Symmetric Positive Definite Manifold.\\
 > Kai-Xuan Chen, Xiao-Jun Wu \\
-> Journal of Software, 2020. (软件学报)
+> Journal of Software, 2020.
 
 
 > Sparse Representation in Tangent Space for Image Set Classification.\\
 > Kai-Xuan Chen, Xiao-Jun Wu \\
-> Journal of Image and Graphics, 2018. (中国图象图形学报)
+> Journal of Image and Graphics, 2018.
 
 
 
