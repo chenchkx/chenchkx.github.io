@@ -8,27 +8,27 @@ redirect_from:
 ---
 ## 2020 & before
 
-> Covariance descriptors on a gaussian manifold and their application to image set classification. `<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320302661" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/RiemannianCovDs" target="_blank">`[Code]`</a>` \\
+> Covariance descriptors on a gaussian manifold and their application to image set classification. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320302661" target="_blank">[Paper]</a> <a href="https://github.com/chenchkx/RiemannianCovDs" target="_blank">[Code]</a> \\
 > Kai-Xuan Chen, Jie-Yi Ren, Xiao-Jun Wu, Josef Kittler \\
 > Pattern Recognition, 2020.
 
-> Multiple Riemannian manifold-valued descriptors based image set classification with multi-kernel metric learning. `<a href="https://ieeexplore.ieee.org/abstract/document/9043722" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/MRMML-v1.0" target="_blank">`[Code]`</a>` \\
+> Multiple Riemannian manifold-valued descriptors based image set classification with multi-kernel metric learning. <a href="https://ieeexplore.ieee.org/abstract/document/9043722" target="_blank">[Paper]</a> <a href="https://github.com/chenchkx/MRMML-v1.0" target="_blank">[Code]</a> \\
 > Rui Wang, Xiao-Jun Wu, Kai-Xuan Chen, Josef Kittler \\
 > IEEE Transactions on Big Data, 2020.
 
-> More about covariance descriptors for image set coding: Log-euclidean framework based kernel matrix representation. `<a href="https://openaccess.thecvf.com/content_ICCVW_2019/html/CEFRL/Chen_More_About_Covariance_Descriptors_for_Image_Set_Coding_Log-Euclidean_Framework_ICCVW_2019_paper.html" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/iCovDs" target="_blank">`[Code]`</a>`  \\
+> More about covariance descriptors for image set coding: Log-euclidean framework based kernel matrix representation. <a href="https://openaccess.thecvf.com/content_ICCVW_2019/html/CEFRL/Chen_More_About_Covariance_Descriptors_for_Image_Set_Coding_Log-Euclidean_Framework_ICCVW_2019_paper.html" target="_blank">[Paper]</a> <a href="https://github.com/chenchkx/iCovDs" target="_blank">[Code]</a>  \\
 > Kai-Xuan Chen, Xiao-Jun Wu, Jie-Yi Ren, Rui Wang, Josef Kittler \\
 > International Conference on Computer Vision Workshops, 2019.
 
-> Multiple manifolds metric learning with application to image set classification. `<a href="https://ieeexplore.ieee.org/abstract/document/8546030" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/MMML" target="_blank">`[Code]`</a>`  \\
+> Multiple manifolds metric learning with application to image set classification. <a href="https://ieeexplore.ieee.org/abstract/document/8546030" target="_blank">[Paper]</a> <a href="https://github.com/chenchkx/MMML" target="_blank">[Code]</a>  \\
 > Rui Wang, Xiao-Jun Wu, Kai-Xuan Chen, Josef Kittler \\
 > International Conference on Pattern Recognition (ICPR), 2018.
 
-> Riemannian kernel based Nyström method for approximate infinite-dimensional covariance descriptors with application to image set classification.`<a href="https://ieeexplore.ieee.org/abstract/document/8545822" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/NYS-Apx" target="_blank">`[Code]`</a>` \\
+> Riemannian kernel based Nyström method for approximate infinite-dimensional covariance descriptors with application to image set classification.<a href="https://ieeexplore.ieee.org/abstract/document/8545822" target="_blank">[Paper]</a> <a href="https://github.com/chenchkx/NYS-Apx" target="_blank">[Code]</a> \\
 > Kai-Xuan Chen, Xiao-Jun Wu, Rui Wang, Josef Kittler \\
 > International Conference on Pattern Recognition (ICPR), 2018.
 
-> Component SPD matrices: A low-dimensional discriminative data descriptor for image set classification.`<a href="https://link.springer.com/article/10.1007/s41095-018-0119-7" target="_blank">`[Paper]`</a>`  `<a href="https://github.com/chenchkx/ComponentSPD" target="_blank">`[Code]`</a>` \\
+> Component SPD matrices: A low-dimensional discriminative data descriptor for image set classification.<a href="https://link.springer.com/article/10.1007/s41095-018-0119-7" target="_blank">[Paper]</a> <a href="https://github.com/chenchkx/ComponentSPD" target="_blank">[Code]</a> \\
 > Kai-Xuan Chen, Xiao-Jun Wu \\
 > Computational Visual Media, 2018.
 
