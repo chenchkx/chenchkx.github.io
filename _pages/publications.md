@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true 
 redirect_from:
   - /resume
 ---
@@ -27,7 +27,7 @@ redirect_from:
 > AAAI Conference on Artificial Intelligence (AAAI), 2023, Oral.
 
 > Distribution Knowledge Embedding for Graph Pooling.<a href="https://ieeexplore.ieee.org/abstract/document/9896198" target="_blank">[Paper]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank">[Code]</a>\\
-> Kaixuan Chen</strong>, Jie Song, Shunyu Liu, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song\\
+> Kaixuan Chen, Jie Song, Shunyu Liu, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song\\
 > IEEE Transactiosn on Knowledge and Data Engineering, 2022.
 
 > Distribution-aware Graph Representation Learning for TAS of Power System. <a href="https://ieeexplore.ieee.org/abstract/document/9892854" target="_blank">[Paper]</a> <a href="https://github.com/chenchkx/DKEPool-TSA" target="_blank">[Code]</a> \\
@@ -35,7 +35,7 @@ redirect_from:
 > International Joint Conference on Neural Networks (IJCNN), 2022, Oral.
 
 > Imbalanced sample generation and evaluation for power system transient stability using CTGAN. <a href="https://link.springer.com/chapter/10.1007/978-3-030-93247-3_55" target="_blank">[Paper]</a> \\
-> Gengshi Han, Shunyu Liu, <strong>Kaixuan Chen</strong>, Na Yu, Zunlei Feng, Mingli Song \\
+> Gengshi Han, Shunyu Liu, Kaixuan Chen, Na Yu, Zunlei Feng, Mingli Song \\
 > International Conference on Intelligent Computing and Optimization (ICO), 2021, Oral.
 
 
@@ -65,7 +65,14 @@ redirect_from:
 > Kai-Xuan Chen, Xiao-Jun Wu \\
 > Computational Visual Media, 2018.
 
+> Latent Sparse Representation Classification Algorithm Based on Symmetric Positive Definite Manifold.\\
+> Kai-Xuan Chen, Xiao-Jun Wu \\
+> Journal of Software, 2020. (软件学报)
 
+
+> Sparse Representation in Tangent Space for Image Set Classification.\\
+> Kai-Xuan Chen, Xiao-Jun Wu \\
+> Journal of Image and Graphics, 2018. (中国图象图形学报)
 
 
 
