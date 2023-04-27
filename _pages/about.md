@@ -13,6 +13,10 @@ I am a Ph.D. student of Department of Computer Science and Technology in Zhejian
 
 My current research interests include graph representation learning, manifold learning, and decentralized learning.
 
+- graph representation learning
+- manifold learning
+- decentralized learning
+
 # Selected Publications
 
 > **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA) \\
