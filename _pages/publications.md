@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## 2021 - Now
 
-- Decentralized SGD and Average-direction SAM are Asymptotically Equivalent. [[Paper](https://openreview.net/pdf?id=99Go96dla5y?_blank)] \\
+- Decentralized SGD and Average-direction SAM are Asymptotically Equivalent. [[Paper](https://openreview.net/pdf?id=99Go96dla5y){:target="_blank"}] \\
   Tongtian Zhu, Fengxiang He, Kaixuan Chen, Mingli Song, Dacheng Tao \\
   *International Conference on Machine Learning (ICML)*, 2023.
 - Message-passing Selection: Towards Interpretable GNNs for Graph Classification. `<a href="https://openreview.net/pdf?id=99Go96dla5y" target="_blank">`[Paper]`</a>` \\
