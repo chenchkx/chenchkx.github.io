@@ -8,67 +8,54 @@ redirect_from:
 ---
 ## 2021 - Now
 
-> Decentralized SGD and Average-direction SAM are Asymptotically Equivalent. `<a href="" target="_blank">`[Paper]`</a>` \\
-> Tongtian Zhu, Fengxiang He, Kaixuan Chen, Mingli Song, Dacheng Tao \\
-> International Conference on Machine Learning (ICML), 2023.
-
-> Message-passing Selection: Towards Interpretable GNNs for Graph Classification.`<a href="https://openreview.net/pdf?id=99Go96dla5y" target="_blank">`[Paper]`</a>` \\
-> Wenda Li, Kaixuan Chen, Shunyu Liu, Wenjie Huang, Haofei Zhang, Yingjie Tian, Yun Su, Mingli Song \\
-> International Conference on Learning Representations (ICLR), 2023, Tiny Paper.
-
-> Schema Inference for Interpretable Image Classification. `<a href="https://openreview.net/pdf?id=VGI9dSmTgPF" target="_blank">`[Paper]`</a>` `<a href="https://github.com/zhfeing/SchemaNet-PyTorch" target="_blank">`[Code]`</a>` \\
-> Haofei Zhang, Mengqi Xue, Xiaokang Liu, Kaixuan Chen, Jie Song, Mingli Song\\
-> International Conference on Learning Representations (ICLR), 2023.
-
-> Contrastive identity-aware learning for multi-agent value decomposition.`<a href="https://arxiv.org/abs/2211.12712" target="_blank">`[Paper]`</a>` `<a href="https://github.com/liushunyu/CIA" target="_blank">`[Code]`</a>` \\
-> Shunyu Liu, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song\\
-> AAAI Conference on Artificial Intelligence (AAAI), 2023, Oral.
-
-> Distribution Knowledge Embedding for Graph Pooling.`<a href="https://ieeexplore.ieee.org/abstract/document/9896198" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/DKEPool" target="_blank">`[Code]`</a>`\\
-> Kaixuan Chen, Jie Song, Shunyu Liu, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song\\
-> IEEE Transactiosn on Knowledge and Data Engineering, 2022.
-
-> Distribution-aware Graph Representation Learning for TAS of Power System. `<a href="https://ieeexplore.ieee.org/abstract/document/9892854" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/DKEPool-TSA" target="_blank">`[Code]`</a>` \\
-> Kaixuan Chen, Shunyu Liu, Na Yu, Rong Yan, Quan Zhang, Jie Song, Zunlei Feng, Mingli Song\\
-> International Joint Conference on Neural Networks (IJCNN), 2022, Oral.
-
-> Imbalanced sample generation and evaluation for power system transient stability using CTGAN. `<a href="https://link.springer.com/chapter/10.1007/978-3-030-93247-3_55" target="_blank">`[Paper]`</a>` \\
-> Gengshi Han, Shunyu Liu, Kaixuan Chen, Na Yu, Zunlei Feng, Mingli Song \\
-> International Conference on Intelligent Computing and Optimization (ICO), 2021, Oral.
+- Decentralized SGD and Average-direction SAM are Asymptotically Equivalent. [[Paper](https://openreview.net/pdf?id=99Go96dla5y)] \\
+  Tongtian Zhu, Fengxiang He, Kaixuan Chen, Mingli Song, Dacheng Tao \\
+  *International Conference on Machine Learning (ICML)*, 2023.
+- Message-passing Selection: Towards Interpretable GNNs for Graph Classification. `<a href="https://openreview.net/pdf?id=99Go96dla5y" target="_blank">`[Paper]`</a>` \\
+  Wenda Li, Kaixuan Chen, Shunyu Liu, Wenjie Huang, Haofei Zhang, Yingjie Tian, Yun Su, Mingli Song \\
+  *International Conference on Learning Representations (ICLR)*, 2023, Tiny Paper.
+- Schema Inference for Interpretable Image Classification. `<a href="https://openreview.net/pdf?id=VGI9dSmTgPF" target="_blank">`[Paper]`</a>` `<a href="https://github.com/zhfeing/SchemaNet-PyTorch" target="_blank">`[Code]`</a>` \\
+  Haofei Zhang, Mengqi Xue, Xiaokang Liu, Kaixuan Chen, Jie Song, Mingli Song\\
+  *International Conference on Learning Representations (ICLR)*, 2023.
+- Contrastive identity-aware learning for multi-agent value decomposition.`<a href="https://arxiv.org/abs/2211.12712" target="_blank">`[Paper]`</a>` `<a href="https://github.com/liushunyu/CIA" target="_blank">`[Code]`</a>` \\
+  Shunyu Liu, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song\\
+  *AAAI Conference on Artificial Intelligence (AAAI)*, 2023, Oral.
+- Distribution Knowledge Embedding for Graph Pooling.`<a href="https://ieeexplore.ieee.org/abstract/document/9896198" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/DKEPool" target="_blank">`[Code]`</a>`\\
+  Kaixuan Chen, Jie Song, Shunyu Liu, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song\\
+  *IEEE Transactiosn on Knowledge and Data Engineering*, 2022.
+- Distribution-aware Graph Representation Learning for TAS of Power System. `<a href="https://ieeexplore.ieee.org/abstract/document/9892854" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/DKEPool-TSA" target="_blank">`[Code]`</a>` \\
+  Kaixuan Chen, Shunyu Liu, Na Yu, Rong Yan, Quan Zhang, Jie Song, Zunlei Feng, Mingli Song\\
+  *International Joint Conference on Neural Networks (IJCNN)*, 2022, Oral.
+- Imbalanced sample generation and evaluation for power system transient stability using CTGAN. `<a href="https://link.springer.com/chapter/10.1007/978-3-030-93247-3_55" target="_blank">`[Paper]`</a>` \\
+  Gengshi Han, Shunyu Liu, Kaixuan Chen, Na Yu, Zunlei Feng, Mingli Song \\
+  *International Conference on Intelligent Computing and Optimization (ICO)*, 2021, Oral.
 
 ## 2020 & Before
 
-> Covariance descriptors on a gaussian manifold and their application to image set classification. `<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320302661" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/RiemannianCovDs" target="_blank">`[Code]`</a>` \\
-> Kai-Xuan Chen, Jie-Yi Ren, Xiao-Jun Wu, Josef Kittler \\
-> Pattern Recognition, 2020.
-
-> Multiple Riemannian manifold-valued descriptors based image set classification with multi-kernel metric learning. `<a href="https://ieeexplore.ieee.org/abstract/document/9043722" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/MRMML-v1.0" target="_blank">`[Code]`</a>` \\
-> Rui Wang, Xiao-Jun Wu, Kai-Xuan Chen, Josef Kittler \\
-> IEEE Transactions on Big Data, 2020.
-
-> More about covariance descriptors for image set coding: Log-euclidean framework based kernel matrix representation. `<a href="https://openaccess.thecvf.com/content_ICCVW_2019/html/CEFRL/Chen_More_About_Covariance_Descriptors_for_Image_Set_Coding_Log-Euclidean_Framework_ICCVW_2019_paper.html" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/iCovDs" target="_blank">`[Code]`</a>`  \\
-> Kai-Xuan Chen, Xiao-Jun Wu, Jie-Yi Ren, Rui Wang, Josef Kittler \\
-> International Conference on Computer Vision Workshops, 2019.
-
-> Multiple manifolds metric learning with application to image set classification. `<a href="https://ieeexplore.ieee.org/abstract/document/8546030" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/MMML" target="_blank">`[Code]`</a>`  \\
-> Rui Wang, Xiao-Jun Wu, Kai-Xuan Chen, Josef Kittler \\
-> International Conference on Pattern Recognition (ICPR), 2018.
-
-> Riemannian kernel based Nyström method for approximate infinite-dimensional covariance descriptors with application to image set classification.`<a href="https://ieeexplore.ieee.org/abstract/document/8545822" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/NYS-Apx" target="_blank">`[Code]`</a>` \\
-> Kai-Xuan Chen, Xiao-Jun Wu, Rui Wang, Josef Kittler \\
-> International Conference on Pattern Recognition (ICPR), 2018.
-
+- Covariance descriptors on a gaussian manifold and their application to image set classification. `<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320302661" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/RiemannianCovDs" target="_blank">`[Code]`</a>` \\
+  Kai-Xuan Chen, Jie-Yi Ren, Xiao-Jun Wu, Josef Kittler \\
+  *Pattern Recognition*, 2020.
+- Multiple Riemannian manifold-valued descriptors based image set classification with multi-kernel metric learning. `<a href="https://ieeexplore.ieee.org/abstract/document/9043722" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/MRMML-v1.0" target="_blank">`[Code]`</a>` \\
+  Rui Wang, Xiao-Jun Wu, Kai-Xuan Chen, Josef Kittler \\
+  *IEEE Transactions on Big Data*, 2020.
+- More about covariance descriptors for image set coding: Log-euclidean framework based kernel matrix representation. `<a href="https://openaccess.thecvf.com/content_ICCVW_2019/html/CEFRL/Chen_More_About_Covariance_Descriptors_for_Image_Set_Coding_Log-Euclidean_Framework_ICCVW_2019_paper.html" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/iCovDs" target="_blank">`[Code]`</a>`  \\
+  Kai-Xuan Chen, Xiao-Jun Wu, Jie-Yi Ren, Rui Wang, Josef Kittler \\
+  *International Conference on Computer Vision Workshops*, 2019.
+- Multiple manifolds metric learning with application to image set classification. `<a href="https://ieeexplore.ieee.org/abstract/document/8546030" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/MMML" target="_blank">`[Code]`</a>`  \\
+  Rui Wang, Xiao-Jun Wu, Kai-Xuan Chen, Josef Kittler \\
+  *International Conference on Pattern Recognition (ICPR)*, 2018.
+- Riemannian kernel based Nyström method for approximate infinite-dimensional covariance descriptors with application to image set classification.`<a href="https://ieeexplore.ieee.org/abstract/document/8545822" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/NYS-Apx" target="_blank">`[Code]`</a>` \\
+  Kai-Xuan Chen, Xiao-Jun Wu, Rui Wang, Josef Kittler \\
+  *International Conference on Pattern Recognition (ICPR)*, 2018.
 - Component SPD matrices: A low-dimensional discriminative data descriptor for image set classification.`<a href="https://link.springer.com/article/10.1007/s41095-018-0119-7" target="_blank">`[Paper]`</a>` `<a href="https://github.com/chenchkx/ComponentSPD" target="_blank">`[Code]`</a>` \\
-Kai-Xuan Chen, Xiao-Jun Wu \\
-Computational Visual Media, 2018.
-
+  Kai-Xuan Chen, Xiao-Jun Wu \\
+  *Computational Visual Media*, 2018.
 - Latent Sparse Representation Classification Algorithm Based on Symmetric Positive Definite Manifold.\\
-Kai-Xuan Chen, Xiao-Jun Wu \\
-Journal of Software, 2020.
-
+  Kai-Xuan Chen, Xiao-Jun Wu \\
+  *Journal of Software*, 2020.
 - Sparse Representation in Tangent Space for Image Set Classification.\\
-Kai-Xuan Chen, Xiao-Jun Wu \\
-Journal of Image and Graphics, 2018.
+  Kai-Xuan Chen, Xiao-Jun Wu \\
+  *Journal of Image and Graphics*, 2018.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
