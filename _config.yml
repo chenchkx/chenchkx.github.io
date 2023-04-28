@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Homepage"
+title                    : "Kaixuan Chen (陈凯旋)"
 title_separator          : "-"
 name                     : &name "Kaixuan Chen"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaixuan Chen / 陈凯旋"
+  name             : "Kaixuan Chen (陈凯旋)"
   avatar           : "chenkx.jpg"
   bio              : "Ph.D. Student, College of Computer Science, @ ZJU"
   location         : "Zhejiang University"

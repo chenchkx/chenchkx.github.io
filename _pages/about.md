@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 I am a Ph.D. student of Department of Computer Science and Technology in Zhejiang University. Currently I am a member of VIPA Group, advised by professor Mingli Song.
-
-## Research Interest
-
-My current research interests include graph representation learning, manifold learning, and decentralized learning.
+<!-- ## Research Interestz -->
+My current research interests include Graph Representation Learning, Manifold Learning, and Decentralized Learning.
 
 - Graph Representation Learning: Coming Soon...
 - Manifold Learning: Coming Soon...
