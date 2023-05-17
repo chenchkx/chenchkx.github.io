@@ -11,7 +11,7 @@ redirect_from:
 - Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization. [[Paper](){:target="_blank"}] \\
   <!-- Kaixuan Chen, Shunyu Liu, Tongtian Zhu, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\ -->
   Kaixuan Chen, Shunyu Liu, Tongtian Zhu, Tongya Zheng, Haofei Zhang, Zunlei Feng, et al. \\
-  *ACM SIGKDD Conference Knowledge Discovery and Data Mining*, 2023.
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2023.
 - Decentralized SGD and Average-direction SAM are Asymptotically Equivalent. [[Paper](){:target="_blank"}] \\
   Tongtian Zhu, Fengxiang He, Kaixuan Chen, Mingli Song, Dacheng Tao \\
   *International Conference on Machine Learning (ICML)*, 2023.
