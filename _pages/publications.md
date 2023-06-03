@@ -36,7 +36,7 @@ redirect_from:
 
 ## 2020 & Before
 
-- .Covariance Descriptors on a Gaussian Manifold and Their Application to Image Set Classification. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320302661){:target="_blank"}] [[Code](https://github.com/chenchkx/RiemannianCovDs){:target="_blank"}] \\
+- Covariance Descriptors on a Gaussian Manifold and Their Application to Image Set Classification. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320302661){:target="_blank"}] [[Code](https://github.com/chenchkx/RiemannianCovDs){:target="_blank"}] \\
   Kai-Xuan Chen, Jie-Yi Ren, Xiao-Jun Wu, Josef Kittler \\
   *Pattern Recognition*, 2020.
 - Multiple Riemannian manifold-valued descriptors based image set classification with multi-kernel metric learning. [[Paper](https://ieeexplore.ieee.org/abstract/document/9043722){:target="_blank"}] [[Code](https://github.com/chenchkx/MRMML-v1.0){:target="_blank"}] \\
