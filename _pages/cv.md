@@ -14,8 +14,25 @@ Education
 * Ph.D in Computer Science, Zhejiang University, 2020-Now
 * M.S. in Computer Science, Jiangnan University, 2016-2019
 * B.S. in Software Engineering, Jiangsu University of Science and Technology, 2012-2016
-<!-- 
-Work experience
+
+# Academic Services
+
+### Journal Reviewer
+
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Cybernetics
+- Pattern Recognition
+- Information Sciences
+- Knowledge-Based Systems
+- Neural Processing Letters
+
+### Conference Reviewer
+
+- ICML, IJCAI, ICLR
+
+
+<!-- Work experience
 
 * Summer 2015: Research Assistant
 
@@ -55,21 +72,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
--->
-
-# Academic Services
-
-### Journal Reviewer
-
-- IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Transactions on Knowledge and Data Engineering
-- IEEE Transactions on Cybernetics
-- Pattern Recognition
-- Information Sciences
-- Knowledge-Based Systems
-- Neural Processing Letters
-
-### Conference Reviewer
-
-- ICML, IJCAI, ICLR
+Service and leadership -->
