@@ -9,7 +9,9 @@ redirect_from:
 ## 2021 - Now
 
 - Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization. [[Paper](https://arxiv.org/abs/2305.19903){:target="_blank"}] [[Code](https://github.com/chenchkx/SuperNorm){:target="_blank"}]\\
+
   <!-- Kaixuan Chen, Shunyu Liu, Tongtian Zhu, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\ -->
+
   Kaixuan Chen, Shunyu Liu, Tongtian Zhu, Tongya Zheng, Haofei Zhang, Zunlei Feng, et al. \\
   *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023.
 - Decentralized SGD and Average-direction SAM are Asymptotically Equivalent. [[Paper](https://arxiv.org/abs/2306.02913){:target="_blank"}] [[Code](https://github.com/Raiden-Zhu/ICML-2023-DSGD-and-SAM){:target="_blank"}]\\
@@ -26,7 +28,7 @@ redirect_from:
   *AAAI Conference on Artificial Intelligence (AAAI)*, 2023, Oral.
 - Distribution Knowledge Embedding for Graph Pooling. [[Paper](https://ieeexplore.ieee.org/abstract/document/9896198){:target="_blank"}] [[Code](https://github.com/chenchkx/DKEPool){:target="_blank"}] \\
   Kaixuan Chen, Jie Song, Shunyu Liu, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song\\
-  *IEEE Transactiosn on Knowledge and Data Engineering*, 2022.
+  *IEEE Transactiosn on Knowledge and Data Engineering (TKDE)*, 2022.
 - Distribution-aware Graph Representation Learning for TAS of Power System. [[Paper](https://ieeexplore.ieee.org/abstract/document/9892854){:target="_blank"}] [[Code](https://github.com/chenchkx/DKEPool-TSA){:target="_blank"}] \\
   Kaixuan Chen, Shunyu Liu, Na Yu, Rong Yan, Quan Zhang, Jie Song, Zunlei Feng, Mingli Song\\
   *International Joint Conference on Neural Networks (IJCNN)*, 2022, Oral.
