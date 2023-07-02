@@ -11,7 +11,7 @@ redirect_from:
 Education
 =========
 
-* Ph.D in Computer Science, Zhejiang University, 2020-Now
+* Ph.D. in Computer Science, Zhejiang University, 2020-Now
 * M.S. in Computer Science, Jiangnan University, 2016-2019
 * B.S. in Software Engineering, Jiangsu University of Science and Technology, 2012-2016
 
@@ -30,7 +30,6 @@ Education
 ### Conference Reviewer
 
 - ICML, IJCAI, ICLR
-
 
 <!-- Work experience
 
