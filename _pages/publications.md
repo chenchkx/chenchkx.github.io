@@ -8,7 +8,7 @@ redirect_from:
 ---
 <style type="text/css">
   body{
-  font-size: 2pt;
+  font-size: 1.0em;
 }
 </style>
 ## 2021 - Now
