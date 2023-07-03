@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 body{
-  font-size: 2pt;
+  font-size: 6pt;
 }
 
 ## 2021 - Now
