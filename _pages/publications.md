@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<style type="text/css">
+<!-- <style type="text/css">
   body{
   font-size: 12pt;
 }
-</style>
+</style> -->
 
 ## 2021 - Now
 <!-- <p size='1'>一对中括号就可以将文字转换为超链接，如: <a href="">北京</a>，<a href="">上海</a>，<a href="">广州</a>，<a href="">深圳</a></p>\\ -->
