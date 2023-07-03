@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<style>
+p {font-size: 0.2rem;}
+</style>
+
 ## 2021 - Now
 
 - Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization. [[Paper](https://arxiv.org/abs/2305.19903){:target="_blank"}] [[Code](https://github.com/chenchkx/SuperNorm){:target="_blank"}]\\
