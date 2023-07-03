@@ -3,10 +3,13 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true 
-font-size: 2pt
 redirect_from:
   - /resume
 ---
+<style type="text/css">
+  body{
+  font-size: 8pt;
+}
 
 ## 2021 - Now
 <!-- <p size='1'>一对中括号就可以将文字转换为超链接，如: <a href="">北京</a>，<a href="">上海</a>，<a href="">广州</a>，<a href="">深圳</a></p>\\ -->
