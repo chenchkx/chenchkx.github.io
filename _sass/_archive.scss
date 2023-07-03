@@ -164,7 +164,7 @@
 
 .feature__item {
   margin-bottom: 2em;
-  font-size: 0.25rem;
+  font-size: 1.25rem;
 
   @include breakpoint($small) {
     margin-bottom: 0;
@@ -178,7 +178,7 @@
 
   &--left {
     @include full();
-    font-size: 0.25rem;
+    font-size: 1.25rem;
 
     .archive__item-teaser {
       margin-bottom: 2em;
@@ -199,7 +199,7 @@
 
   &--right {
     @include full();
-    font-size: 0.25rem;
+    font-size: 1.25rem;
 
     .archive__item-teaser {
       margin-bottom: 2em;
@@ -222,7 +222,7 @@
 
   &--center {
     @include full();
-    font-size: 0.25rem;
+    font-size: 1.25rem;
 
     .archive__item-teaser {
       margin-bottom: 2em;
