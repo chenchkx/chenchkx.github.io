@@ -18,7 +18,8 @@ redirect_from:
 - Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework. [[Paper](https://arxiv.org/abs/2207.01955){:target="_blank"}] [[Code](https://github.com/liushunyu/Ask-AC){:target="_blank"}]\\
   Shunyu Liu, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song \\
   *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)*, 2023.
-- Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution \\ Map. [[Paper](){:target="_blank"}] [[Code](){:target="_blank"}]\\
+- Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution \\
+Map. [[Paper](){:target="_blank"}] [[Code](){:target="_blank"}]\\
   Shunyu Liu, Wei Luo, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song \\
   *IEEE Transactions on Power Systems*, 2023.
 - Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization. [[Paper](https://arxiv.org/abs/2305.19903){:target="_blank"}] [[Code](https://github.com/chenchkx/SuperNorm){:target="_blank"}]\\
