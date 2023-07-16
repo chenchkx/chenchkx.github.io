@@ -14,7 +14,7 @@ redirect_from:
 
 ## 2021 - Now
 <!-- <p size='1'>一对中括号就可以将文字转换为超链接，如: <a href="">北京</a>，<a href="">上海</a>，<a href="">广州</a>，<a href="">深圳</a></p>\\ -->
-- Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket. [[Paper](https://arxiv.org/abs/2207.01955){:target="_blank"}] [[Code](https://github.com/liushunyu/Ask-AC){:target="_blank"}]\\
+- Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket. [[Paper](){:target="_blank"}] [[Code](){:target="_blank"}]\\
   Yuwen Wang, Shunyu Liu, Kaixuan Chen, Tongtian Zhu, Ji Qiao, Mengjie Shi, Yuanyu Wan, Mingli Song \\
   *European Conference on Artificial Intelligence (ECAI)*, 2023.
 - Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework. [[Paper](https://arxiv.org/abs/2207.01955){:target="_blank"}] [[Code](https://github.com/liushunyu/Ask-AC){:target="_blank"}]\\
