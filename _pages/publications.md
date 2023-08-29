@@ -14,14 +14,14 @@ redirect_from:
 
 ## 2021 - Now
 <!-- <p size='1'>一对中括号就可以将文字转换为超链接，如: <a href="">北京</a>，<a href="">上海</a>，<a href="">广州</a>，<a href="">深圳</a></p>\\ -->
-- Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket. [[Paper](){:target="_blank"}] [[Code](){:target="_blank"}]\\
+- Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket. [[Paper](https://arxiv.org/abs/2308.02916){:target="_blank"}] [[Code](https://github.com/Wangyuwen0627/ACE-GLT){:target="_blank"}]\\
   Yuwen Wang, Shunyu Liu, Kaixuan Chen, Tongtian Zhu, Ji Qiao, Mengjie Shi, Yuanyu Wan, Mingli Song \\
   *European Conference on Artificial Intelligence (ECAI)*, 2023.
 - Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework. [[Paper](https://arxiv.org/abs/2207.01955){:target="_blank"}] [[Code](https://github.com/liushunyu/Ask-AC){:target="_blank"}]\\
   Shunyu Liu, Kaixuan Chen, Na Yu, Jie Song, Zunlei Feng, Mingli Song \\
   *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)*, 2023.
 - Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution \\
-Map. [[Paper](){:target="_blank"}] [[Code](){:target="_blank"}]\\
+Map. [[Paper](https://ieeexplore.ieee.org/abstract/document/10192091){:target="_blank"}] [[Code](https://github.com/Cra2yDavid/MAM){:target="_blank"}]\\
   Shunyu Liu, Wei Luo, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song \\
   *IEEE Transactions on Power Systems*, 2023.
 - Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization. [[Paper](https://arxiv.org/abs/2305.19903){:target="_blank"}] [[Code](https://github.com/chenchkx/SuperNorm){:target="_blank"}]\\
